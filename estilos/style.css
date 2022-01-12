@@ -4,13 +4,13 @@
 }
 
 body{
-    background-color: rgb(182, 127, 233);
+    background-color: rgb(127, 233, 136);
 }
 
 main{
-    background-color: cornsilk;
+    background-color: rgba(243, 228, 169, 0.856);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.425);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.616);
 }
